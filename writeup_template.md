@@ -70,7 +70,7 @@ This resulted in the following source and destination points:
 
 | Source        | Destination   |
 |:-------------:|:-------------:|
-| 580, 450      | 330, 0        |
+| 580, 450      | 350, 0        |
 | 690, 450      | 1100, 0       |
 | 350, 680      | 350, 720      |
 | 1100,680      | 1100, 720     |
